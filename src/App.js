@@ -98,7 +98,6 @@ const App = () => {
             </div>
           )}
         </nav>
-
         <div className="container mt-3">
           <Switch>
             <Route exact path="/upload-image" component={UploadImage} />
